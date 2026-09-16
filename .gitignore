@@ -1,0 +1,34 @@
+## .NET build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+## Secrets / local settings (لا ترفعها)
+appsettings.Development.json
+appsettings.Local.json
+*.pfx
+*.key
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+logs/
+
+## Others
+*.db
+*.sqlite

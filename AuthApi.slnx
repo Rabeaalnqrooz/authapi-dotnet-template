@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AuthApi.API/AuthApi.API.csproj" />
+  <Project Path="AuthApi.Application/AuthApi.Application.csproj" />
+  <Project Path="AuthApi.Domain/AuthApi.Domain.csproj" />
+  <Project Path="AuthApi.Infrastructure/AuthApi.Infrastructure.csproj" />
+</Solution>
